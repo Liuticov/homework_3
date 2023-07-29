@@ -1,11 +1,11 @@
 @font-face {
-    font-family:teddybear ;
-    src: url(fonts/teddy-bear.ttf);
+    font-family:teddy_bear ;
+    src: url(teddy-bear.ttf);
 }
 
 h1{
     color: brown;
-    font-family:teddybear,sans-serif ;
+    font-family:teddy_bear,sans-serif ;
 }
 h2{
     color: #2d4aa9;
